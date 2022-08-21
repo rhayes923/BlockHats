@@ -1,0 +1,9 @@
+name: BlockHats
+main: com.ryan.blockhats.BlockHats
+version: 1.0
+api-version: 1.19
+prefix: BlockHats
+commands:
+   hat:
+      description: Wear a block as a hat
+      usage: /hat
